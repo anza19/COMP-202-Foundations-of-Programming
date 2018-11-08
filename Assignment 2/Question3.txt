@@ -1,0 +1,6 @@
+Q.3 a) Yes.
+Q.3 b) aW, 263----, 21251, 0, 0.5
+Q.3 c) int,string,string,int,double, string
+Q.3 d) 609638400  8  6  5  7  8  3  3  6  7  3  5  8
+Q.3 e)15160975859
+
